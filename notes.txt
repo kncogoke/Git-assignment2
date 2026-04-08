@@ -1,0 +1,1 @@
+Git is a remote server or centeralized location where developers put their written codes and the devops engineer can take it to their local computer work on it and push back to the remote server or centeralized location so all can see changes made and who made it. 
